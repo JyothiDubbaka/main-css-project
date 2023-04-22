@@ -1,0 +1,132 @@
+.HeaderLogo{
+    
+  /*border: 1px solid black;*/
+  background-color: #1f2937;
+  color: white;
+  width: 769px;
+  padding: 0px;
+  margin-left:384px;
+  height: 334px;
+}
+.header{
+  font: 24px;
+  color: #f9faf8;
+  margin: 80px;
+}
+.body1{
+    margin-top: -150px;
+    font: 48px;
+    font-style: extra-bold;
+    color: #f9faf8;
+    margin-left: 75px;
+}
+.body2{
+    margin-top: -20px;
+    margin-left: 75px;
+}
+.body3{
+    margin-top: -1px;
+    background-color: #3882f6;
+    border: none;
+    border-radius: 25%;
+    color: white;
+    margin-left: 75px;
+}
+
+.square {
+  background-color: lightgrey;
+  width: 143px;
+ /* border: 15px solid green;*/
+  padding: 60px;
+  margin: 10px;
+  color: white;
+  font-size: 10px;
+  padding-top: 51px;
+  margin-left: 450px;
+  
+}
+.info{
+  font-size: 24px;
+  color: #1f2937;
+margin-left: 650px;
+}
+.square1 {
+  font-size:8px;
+margin:15px;
+  margin-left: 5px;
+  border-radius:20px ;
+  border: 2px solid blue;
+  height: 80px;
+  width: 80px;
+  background-color: white;
+  margin-top: 0px;
+  
+  
+}
+
+.link{
+  flex: 1;
+  text-align: right;
+  font-size: 12px;
+  color:#F9FAF8;
+  margin-top:-204px;
+  margin-right:54px
+}
+
+  .newDiv{
+  margin-right:150px;
+  }
+
+
+
+  .para{
+        color: #1F2937;
+	      padding-top: 50px;
+	      margin-left: 140px;
+        font-style: italic;
+    
+  }
+ 
+  
+  
+  .box1{
+    border: solid gray;
+    margin-top: 85px;
+    margin-left: 420px;
+    margin-right: 340px;
+    height: 208px;
+    background-color: gray;
+    text-align: center;
+    
+  }
+  .action{
+   /* background-color: #3882f6;
+    border: solid#3882f6;*/
+    margin-top: 36px;
+    margin-left:478px;
+    margin-right: 385px;
+    height: 100px;
+    color: white;
+
+  }
+  .body4{
+    margin-top: -1px;
+    background-color: #3882f6;
+    border-color: white;
+    border-radius: 20%;
+    color: white;
+    margin-left: 75px;
+  }
+  .copy{
+    background-color: black;
+    border: solid black;
+    color: white;
+    margin-top: 38px;
+    margin-left:405px;
+    margin-right: 340px;
+    height: 40px;
+    text-align: center;
+	width: 750px;
+	padding-top:15px;
+  }
+
